@@ -7,7 +7,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background: url('asset/BackgroundWebsite.png') no-repeat center center fixed;
+    background: url('assets/BackgroundWebsite.png') no-repeat center center fixed;
     background-size: cover;
     height: 100vh;
     display: flex;
